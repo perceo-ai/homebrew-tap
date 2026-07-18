@@ -1,0 +1,19 @@
+Formula/archductor.rb
+  s_32109acf6d1f93::t_cf154e1fb7eb79 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b2e5036193cf7667a6e698108e07516090274992",
+  "prompts": {},
+  "sessions": {
+    "s_32109acf6d1f93": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f74f6-6ae2-7ac2-ab69-bc30ca2325bc",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Pranav Kannepalli <pranav.kannepalli@gmail.com>"
+    }
+  }
+}
