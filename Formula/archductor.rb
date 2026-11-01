@@ -1,8 +1,8 @@
 class Archductor < Formula
   desc "Parallel coding-agent workflow tool built around Git worktrees"
   homepage "https://github.com/perceo-ai/conductor-arch"
-  url "https://github.com/perceo-ai/conductor-arch/archive/refs/tags/v0.13.5.tar.gz"
-  sha256 "e134a8e27741dff8de473e113c44bda761dfee50d476d4ce99847cb7c3702433"
+  url "https://github.com/perceo-ai/conductor-arch/archive/refs/tags/v0.13.6.tar.gz"
+  sha256 "014f5c46e436a9034b98da11f931eae7d4e509a95114390e3d58e40d5336fd75"
   license "Apache-2.0"
 
   depends_on "pkgconf" => :build
